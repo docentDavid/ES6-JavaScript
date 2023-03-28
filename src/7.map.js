@@ -11,15 +11,11 @@ const getal = getallen.map((getal) => {
 // const personen = [
 //   {
 //     voornaam: "Marthe",
-//     leeftijd: 19,
-//     isGetrouwd: false,
-//     studeertNog: true
+//     leeftijd: 19
 //   },
 //   {
 //     voornaam: "Peter",
-//     leeftijd: 25,
-//     isGetrouwd: true,
-//     studeertNog: true
+//     leeftijd: 25
 //   }
 // ];
 

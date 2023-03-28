@@ -14,4 +14,4 @@ const begroeting = (naam) => {
 //   return `Goede ${dagdeel} ${naam}`;
 // };
 
-appNode.innerHTML = begroeting("Jan");
+appNode.innerHTML = begroeting("Fleur");

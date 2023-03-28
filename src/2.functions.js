@@ -9,19 +9,15 @@ let appNode = document.getElementById("app");
 // }
 
 // ES6
-// const zegHallo = () => {
-//   return "Hallo"
-// }
+const zegHallo = () => {
+  return "Hallo";
+};
 
 // Dit is hetzelfde als de functie hierboven
 // const zegHallo = () => "Hallo";
 
 appNode.innerHTML = zegHallo();
 
-function zegHallo() {
-  return "Hallo";
-}
-
-/* Laat tevens zien
- *
- */
+// function zegHallo() {
+//   return "Hallo";
+// }
