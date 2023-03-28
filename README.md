@@ -1,2 +1,2 @@
 # ES6-JavaScript
-Created with CodeSandbox
+Uitleg JavaScript volgens de ES6 standaard
