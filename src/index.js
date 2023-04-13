@@ -11,6 +11,8 @@ const uitleg = () => {
     <li>Functions</li>
     <li>Literals & variabelen</li>
     <li>Spread</li>
+    <li>Ternary statement</li>
+    <li>Map</li>
   </ul>
   `;
 };
